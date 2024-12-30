@@ -1,0 +1,27 @@
+2024-12-22 00:19:48 DEBUG step.definition.DemoBlazeAppSteps:35 - User has Opened thehttps://www.google.com/
+2024-12-22 00:19:55 DEBUG step.definition.DemoBlazeAppSteps:46 - User has navigated to https://www.demoblaze.com/
+2024-12-22 00:19:55 DEBUG step.definition.DemoBlazeAppSteps:54 - User has the title of the page as  STORE
+2024-12-22 00:19:57 DEBUG step.definition.DemoBlazeAppSteps:137 - User closed the browser
+2024-12-22 00:20:13 DEBUG step.definition.DemoBlazeAppSteps:35 - User has Opened thehttps://www.google.com/
+2024-12-22 00:20:19 DEBUG step.definition.DemoBlazeAppSteps:46 - User has navigated to https://www.demoblaze.com/
+2024-12-22 00:20:20 DEBUG step.definition.DemoBlazeAppSteps:60 - User has seen Welcome to Demo_blaze
+2024-12-22 00:20:20 DEBUG step.definition.DemoBlazeAppSteps:137 - User closed the browser
+2024-12-22 00:20:29 DEBUG step.definition.DemoBlazeAppSteps:35 - User has Opened thehttps://www.google.com/
+2024-12-22 00:20:35 DEBUG step.definition.DemoBlazeAppSteps:46 - User has navigated to https://www.demoblaze.com/
+2024-12-22 00:20:37 DEBUG step.definition.DemoBlazeAppSteps:70 - user clicked on sign up link and Sign up modal is displayed
+2024-12-22 00:20:37 DEBUG step.definition.DemoBlazeAppSteps:78 - user has entered username testsdYTREwetr123qwdemoblaze@gmail.com
+2024-12-22 00:20:38 DEBUG step.definition.DemoBlazeAppSteps:81 - user has entered passwordtestdemo@120
+2024-12-22 00:20:38 DEBUG step.definition.DemoBlazeAppSteps:84 - user has clicked on signup button
+2024-12-22 00:20:39 DEBUG step.definition.DemoBlazeAppSteps:91 - Sign up alert is present
+2024-12-22 00:20:39 DEBUG step.definition.DemoBlazeAppSteps:93 - AlertActualText- Sign up successful., AlertExpectedText- Sign up successful.
+2024-12-22 00:20:39 DEBUG step.definition.DemoBlazeAppSteps:98 - Sign up alert is accepted
+2024-12-22 00:20:40 DEBUG step.definition.DemoBlazeAppSteps:137 - User closed the browser
+2024-12-22 00:20:54 DEBUG step.definition.DemoBlazeAppSteps:35 - User has Opened thehttps://www.google.com/
+2024-12-22 00:21:00 DEBUG step.definition.DemoBlazeAppSteps:46 - User has navigated to https://www.demoblaze.com/
+2024-12-22 00:21:00 DEBUG step.definition.DemoBlazeAppSteps:104 - user clicked on log in link
+2024-12-22 00:21:01 DEBUG step.definition.DemoBlazeAppSteps:109 - Log in Modal is displayed with titleLog in
+2024-12-22 00:21:02 DEBUG step.definition.DemoBlazeAppSteps:116 - user has entered username testsdYTREwetr123qwdemoblaze@gmail.com
+2024-12-22 00:21:03 DEBUG step.definition.DemoBlazeAppSteps:119 - user has entered passwordtestdemo@120
+2024-12-22 00:21:03 DEBUG step.definition.DemoBlazeAppSteps:122 - user has clicked on login button
+2024-12-22 00:21:05 DEBUG step.definition.DemoBlazeAppSteps:129 - user has Welcome Message- Welcome testsdYTREwetr123qwdemoblaze@gmail.com
+2024-12-22 00:21:06 DEBUG step.definition.DemoBlazeAppSteps:137 - User closed the browser
